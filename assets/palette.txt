@@ -1,0 +1,19 @@
+Dark blue: #0B3954
+Light blue: #00A8E8
+Light green: #B9E769
+Dark green: #4B8B3B
+
+Navy blue: #1A2B4C
+Teal blue: #26A69A
+Mint green: #B2DFDB
+Forest green: #2E7D32
+
+Royal blue: #0D47A1
+Sky blue: #29B6F6
+Olive green: #AFB42B
+Sage green: #689F38
+
+Baby blue: #89CFF0
+Turquoise blue: #40E0D0
+Kelly green: #4CBB17
+Lime green: #CDDC39
