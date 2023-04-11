@@ -17,3 +17,6 @@ Baby blue: #89CFF0
 Turquoise blue: #40E0D0
 Kelly green: #4CBB17
 Lime green: #CDDC39
+
+Black: #000000
+White: #FFFFFF
