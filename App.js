@@ -6,6 +6,8 @@ import { createStackNavigator } from '@react-navigation/stack';
 
 import Login from './screens/Login';
 import Signup from './screens/Signup';
+import ChatScreen from './screens/ChatScreen';
+import Chats from './screens/Chats';
 
 const Stack = createStackNavigator();
 
@@ -19,7 +21,12 @@ const AuthStack = () => {
 };
 
 const ChatStack = () => {
-    
+    return (
+        <Stack.Navigator>
+            <Stack.Screen name="Chats" component={Chats} />
+            <Stack.Screen name="Chat Screen" component={ChatScreen} />
+        </Stack.Navigator>
+    );
 }
 
 const styles = StyleSheet.create({
