@@ -25,6 +25,15 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+        [
+            "expo-media-library",
+            {
+                "photosPermission": "Allow WhatsUp to access your photos?",
+                "savePhotosPermission": "Allow WhatsUp to save photos?"
+            }
+        ]
+    ]
   }
 }
